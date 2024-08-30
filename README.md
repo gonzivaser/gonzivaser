@@ -32,4 +32,12 @@
 
 <br>
 
-## GitHub Thropies 🏆 :
+
+
+## Connect with me ☕ :
+
+<div align="center">
+ <a href="[https://www.linkedin.com/in/gad-stamati-9007b0234/](https://www.linkedin.com/in/gonzalo-vaserman-a9198b219/)" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin&perline=10" />
+</a>
+</div>
