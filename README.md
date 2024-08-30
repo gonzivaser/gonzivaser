@@ -18,3 +18,16 @@
 
 <br>
 
+
+
+## GitHub Stats 📈 :
+
+<br>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzivaser&theme=github_dark&show_icons=true&hide_border=false&layout=compact" alt="gonzivaser GitHub Stats" />
+  </p>
+
+<br>
+
+## GitHub Thropies 🏆 :
