@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=html,css,react,git,vscode,postman,go,next,cpp,haskell,typescript,notion&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=html,css,react,git,vscode,postman,go,next,cpp,haskell&perline=10"  />
 </p>
 
 <br>
