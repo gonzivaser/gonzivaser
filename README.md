@@ -42,6 +42,10 @@
  <a href="https://www.linkedin.com/in/gonzalo-vaserman-a9198b219/" target="_blank">
    <img src="https://skillicons.dev/icons?i=linkedin&perline=10" />
  </a>
+
+  <a href="https://mail.google.com/mail/?tab=rm&authuser=0&ogbl" target="_blank">
+   <img src="https://skillicons.dev/icons?i=gmail&perline=10" />
+ </a>
 </div>
 
 
