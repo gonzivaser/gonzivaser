@@ -21,7 +21,7 @@
 <br>
 
 <p align="center" style="margin-bottom: 30px;">
-  <img width="500px" src="https://skillicons.dev/icons?i=html,css,react,java,git,vscode,postman,go,next,cpp,haskell&perline=10" />
+  <img width="500px" src="https://skillicons.dev/icons?i=html,css,react,java,cpp,haskell,go,&perline=10" />
 </p>
 
 <br>
