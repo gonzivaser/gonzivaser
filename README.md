@@ -12,7 +12,7 @@
 <div style="margin-bottom: 20px;">
   - 🔭 I’m currently working as a Community Leader through non-formal education<br>
   - 🎓 Studies for Information Systems Engineering at the National Technological University (UTN)<br>
-  - 🌱 I’m currently learning Go and React 
+  - 🌱 I’m currently learning JavaScript and Java 
 </div>
 <!-- FINISH ABOUT ME --> 
 
@@ -21,7 +21,7 @@
 <br>
 
 <p align="center" style="margin-bottom: 30px;">
-  <img width="500px" src="https://skillicons.dev/icons?i=html,css,react,git,vscode,postman,go,next,cpp,haskell&perline=10" />
+  <img width="500px" src="https://skillicons.dev/icons?i=html,css,react,java,git,vscode,postman,go,next,cpp,haskell&perline=10" />
 </p>
 
 <br>
